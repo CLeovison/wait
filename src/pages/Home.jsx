@@ -1,6 +1,11 @@
 import React from "react";
 import { Helmet } from "react-helmet";
+import { useFetch } from "../hooks/useFetch";
 export default function Home() {
+  const { data, loading, error } = useFetch(
+    "https://jsonplaceholder.typicode.com/posts"
+  );
+
   return (
     <>
       <Helmet>
