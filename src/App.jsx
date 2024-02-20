@@ -1,8 +1,9 @@
 //Start of React Modules
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from "./components/UI/Navbar";
+import Navbar from "./components/UI/Navbar/Navbar";
 import { Helmet } from "react-helmet";
+
 //End of React Modules
 
 //Start of Pages
