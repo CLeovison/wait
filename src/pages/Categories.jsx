@@ -11,7 +11,7 @@ export default function Categories() {
           content="Categories/Shop, Wait Clothing, WAIT, We're All in Time"
         />
       </Helmet>
-      qweqweqweqwe
+      
     </>
   );
 }

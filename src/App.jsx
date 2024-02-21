@@ -7,7 +7,7 @@ import { Helmet } from "react-helmet";
 //End of React Modules
 
 //Start of Pages
-import Home from "./pages/Home";
+import Home from "./pages/Home/Home";
 import About from "./pages/About";
 import Shop from "./pages/Categories";
 import Contact from "./pages/Contacts";
