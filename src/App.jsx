@@ -16,6 +16,7 @@ import Contact from "./pages/Contacts";
 export default function App() {
   return (
     <>
+
       <BrowserRouter>
         <Navbar />
         <Helmet>

@@ -16,7 +16,7 @@ export default function Home() {
           content="Home, Wait Clothing, WAIT, We're All in Time"
         />
       </Helmet>
-      qweqweqwe
+   
     </>
   );
 }
