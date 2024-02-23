@@ -14,6 +14,7 @@ import Contact from "./pages/Contacts";
 //End of Pages
 
 export default function App() {
+
   return (
     <>
 
@@ -30,5 +31,6 @@ export default function App() {
         </Routes>
       </BrowserRouter>
     </>
+
   );
 }

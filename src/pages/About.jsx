@@ -1,5 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
+import Login from "./Login";
 export default function About() {
   return (
     <>
@@ -11,7 +12,7 @@ export default function About() {
           content="About, Wait Clothing, WAIT, We're All in Time"
         />
       </Helmet>
-      234234234
+    <Login/>
     </>
   );
 }
